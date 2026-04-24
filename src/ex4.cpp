@@ -1,6 +1,3 @@
-
-
-
 #include "Arduino.h"
 
 #define RED_LED_PIN 26

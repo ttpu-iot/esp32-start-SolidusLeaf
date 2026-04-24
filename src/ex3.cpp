@@ -1,6 +1,3 @@
-
-
-
 #include "Arduino.h"
 
 #define LIGHT_SENSOR_PIN 33
